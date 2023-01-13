@@ -4,7 +4,9 @@ Welcome to the Cyber-Warriors repository, a community-driven resource for findin
 
 ## Getting Started
 
-If you are new to cyber security, it is important to have a basic understanding of computer hardware and networking. If you are already familiar with these topics, you can skip this section. If not, we recommend starting with the following resource:
+If you are new to cyber security,
+We strongly recommend this course for high level view of Ethical Hacking [Practical Ethical Hacking](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course) , here is its free version available on [youtube](https://www.youtube.com/watch?v=3FNYvj2U0HM&ab_channel=TheCyberMentor)
+then it is important to have a basic understanding of computer hardware and networking. If you are already familiar with these topics, you can skip this section. If not, we recommend starting with the following resource:
 
 - [COMPTIA A+ certification videos by Professor James Messer](https://youtube.com/playlist?list=PLG49S3nxzAnlGHY8ObL8DiyP3AIu9vd3K)
 
