@@ -1,38 +1,36 @@
-# Cyber Security Resource Hub
+# Cyber-Warriors
 
-A collection of resources related to cyber security, including articles, tutorials, tools, books, courses, and more. The goal of this repository is to provide a central location for students who are just getting started with cyber security to find valuable information and resources to begin their journey.
+Welcome to the Cyber-Warriors repository, a community-driven resource for finding and contributing information related to cyber security. This repository is aimed at students who are just getting started with cyber security, providing a starting point for learning about the field and the skills needed to succeed.
 
 ## Getting Started
 
-Here are a few suggestions on where to begin as a beginner in cyber security:
+If you are new to cyber security, it is important to have a basic understanding of computer hardware and networking. If you are already familiar with these topics, you can skip this section. If not, we recommend starting with the following resource:
 
-- Start by reading some introductory books on cyber security to get a general understanding of the field. Some popular books include:
-    - "Cybersecurity for Dummies" by Chey Cobb
-    - "The Cybersecurity Canon" by Allan Paller and Richard Stiennon
+- [COMPTIA A+ certification videos by Professor James Messer](https://youtube.com/playlist?list=PLG49S3nxzAnlGHY8ObL8DiyP3AIu9vd3K)
 
-- Take an online course on cyber security to learn the basics. Some popular courses include:
-    - "Introduction to Cyber Security" on Coursera
-    - "Cybersecurity Fundamentals" on edX
+Once you have a basic understanding of hardware and networking, the next step is to start learning about security-specific skills. We recommend starting with the following certifications:
 
-- Once you have a general understanding of the field, you can start diving into more specific topics by reading articles, tutorials, and using tools in the repository.
-### Resources
+- [COMPTIA NETWORK+ certification videos by Professor James Messer](https://youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G)
+- [COMPTIA SECURITY+ certification videos by Professor James Messer](https://youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8)
 
-- **Articles:**
-  - [A Beginner's Guide to Cyber Security](https://www.techrepublic.com/article/a-beginners-guide-to-cyber-security/)
-  - [Top 10 Cyber Security Threats in 2020](https://www.csoonline.com/article/3524486/top-10-cybersecurity-threats-in-2020.html)
+In addition to the above certifications, it is important to have hands-on experience and knowledge of various technologies and tools such as:
+- Kali Linux and hacking
+- Suricata (Intrusion Detection System)
+- ELK 
+- Python 
+- Linux
+- Powershell
+- Autopsy
+- Splunk
+- SQL
+- VirtualBox
+- Nmap
+- OpenVas
+- Git
+- Suricata
+- Docker
+- Wireshark
+- Hacking Tools on Kali (Metasploit, Burpsuite, John the Ripper, aircrack-ng, etc)
 
-- **Tutorials:**
-  - [How to Secure Your Home Network](https://www.lifewire.com/securing-home-network-818205)
-  - [Protecting Your Business from Cyber Attacks](https://www.entrepreneur.com/article/339947)
+To gain hands-on experience, you may consider using the following resources:
 
-- **Books:**
-    - "Cybersecurity for Dummies" by Chey Cobb
-    - "The Cybersecurity Canon" by Allan Paller and Richard Stiennon
-
-- **Courses:**
-    - "Introduction to Cyber Security" on Coursera
-    - "Cybersecurity Fundamentals" on edX
-
-- **Tools:**
-  - [Nmap](https://nmap.org/) - A network scanner for network exploration and security auditing
-  - [Wireshark](https://www.wireshark.org/) - A free and open-source packet analyzer
